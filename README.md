@@ -1,5 +1,5 @@
-# **Hello, World!**
- First Git and Github course repository 
+# Hello, World!
+ **First Git and Github course repository**
 
 Repository created during a youtube class!
 
