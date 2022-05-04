@@ -1,6 +1,6 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e Github
+ First Git and Github course repository 
 
-Repositório criado durante uma aula no youtube!
+Repository created during a youtube class!
 
 Essa linha eu adicionei diretamente no site! QUE IMPRESSIONANTE! 
